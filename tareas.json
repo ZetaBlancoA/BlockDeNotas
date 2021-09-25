@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "series",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "desarrollar",
+        "estado": "proceso"
+    },
+    {
+        "titulo": "pelis",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "pasear",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "cantar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "caminar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "comer",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "mañana",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "caminar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "caminar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "prueba1",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "pruebafinal",
+        "estado": "pendiente"
+    }
+]
